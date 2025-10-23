@@ -1,0 +1,34 @@
+---
+title: "Minorities ethnic Population Patterns in Wayne County"
+author: "Jincheng Yao"
+subtitle: EAS 648, Lab 1
+output:
+  html_document:
+    highlight: tango
+    theme: cerulean
+  pdf_document: default
+editor_options:
+  chunk_output_type: inline
+---
+
+```{r setup, include=FALSE}
+#code chunk to put in default settings, like whether other code chunks run/show messages
+knitr::opts_chunk$set(echo = TRUE, 
+                      messages = FALSE)
+
+# Set so that long lines in R will be wrapped:
+knitr::opts_chunk$set(tidy.opts=list(width.cutoff=80), tidy=TRUE)
+#note may need to install and load package "formatR" for this to run. 
+
+options (width = 80)
+
+```
+
+# ****
+
+###
+
+```{r 1, echo = TRUE}
+
+```
+
